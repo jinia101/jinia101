@@ -41,7 +41,6 @@
 
 ---
 
-### 📬 Contact
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=PLAYER+1+WINS!;INSERT+COIN+TO+CONNECT...;OPEN+FOR+COLLABORATION" alt="Typing SVG" />
@@ -62,5 +61,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,35&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
 
-
-<br/>
